@@ -15,8 +15,7 @@ Building Web Apps • Data Pipelines • ML-Driven Solutions
 <!--<p align="left"> <a href="https://twitter.com/@pratikk24445484" target="blank"><img src="https://img.shields.io/twitter/follow/@pratikk24445484?logo=twitter&style=for-the-badge" alt="@pratikk24445484" /></a> </p>-->
 
 - 💡 Strong interest in **Data Engineering**, focusing on building scalable ETL/ELT pipelines, data preprocessing, and analytics-ready datasets.
-- 🤖 Actively learning **Machine Learning core concepts** including supervised learning, feature engineering, model evaluation, and practical NLP systems.
-- ⚙️ Exploring **backend development** using Flask & REST APIs to build data-driven services with efficient request handling and scalability in mind.
+- 🌐 Building **Full-Stack Applications** using MERN (React, Node.js, Express) and modern frontend practices, emphasizing clean UI, API integration, authentication, and end-to-end product development.
 
 
 <h3 align="left">Connect with me:</h3>
